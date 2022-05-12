@@ -1,0 +1,19 @@
+/*
+ Localizable.strings
+ KeyboardKit
+
+ Created by Habaieb Abderahmane on 2021-05-02.
+ */
+
+"locale" = "fr";
+
+"done" = "terminé";
+"go" = "accéder";
+"ok" = "OK";
+"return" = "retour";
+"search" = "rechercher";
+"space" = "espace";
+
+"keyboardTypeAlphabetic" = "ABC";
+"keyboardTypeNumeric" = "123";
+"keyboardTypeSymbolic" = "#+=";
